@@ -13,6 +13,10 @@
   &nbsp;·&nbsp;
   <a href="https://github.com/abraxas/forgejo-keys-idor">forgejo-keys-idor</a>
 </p>
+<p align="center">
+  Write-up: <a href="https://abraxaslabs.tech/research/forgejo-keys-idor"><strong>https://abraxaslabs.tech/research/forgejo-keys-idor</strong></a>
+</p>
+
 
 # forgejo-keys-idor
 
